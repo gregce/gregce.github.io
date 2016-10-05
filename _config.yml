@@ -6,10 +6,10 @@
 name: Greg Ceccarelli
 
 # Short bio or description (displayed in the header)
-description: Data Scientist @ Dropbox
+description: Data Scientist @ Dropbox. R developer and enthusiast.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/gregce/gregce.github.io/blob/master/images/gdc_avatar.png
+avatar: /images/gdc_avatar.png
 
 #
 # Flags below are optional
