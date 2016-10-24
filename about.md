@@ -3,9 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-## About
-
 I am a full stack analyst/manager who is passionate about leading teams to derive insights from data to influence business direction.
 
 This blog is largely an extension of topics I either apply or research in a professional capacity.
