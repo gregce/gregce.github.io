@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## About
 
-### More Information
+I am a full stack analyst/manager who is passionate about leading teams to derive insights from data to influence business direction.
 
-A place to include any other types of information that you'd like to include about yourself.
+This blog is largely an extension of topics I either apply or research in a professional capacity.
 
-### Contact me
+For more on that, check my CV(/_files/resume_greg_ceccarelli_SEPT2016.pdf)
 
-[email@domain.com](mailto:email@domain.com)
+### Contact 
+
+[gregce@gregce](mailto:gregce@gmail.com)
