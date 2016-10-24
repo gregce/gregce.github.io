@@ -6,10 +6,10 @@
 name: Greg Ceccarelli
 
 # Short bio or description (displayed in the header)
-description: Data Scientist @ Dropbox
+description: Data Scientist @ Dropbox. R developer and enthusiast.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/gregce/gregce.github.io/images/gdc_avatar.png
+avatar: /images/gdc_avatar.png
 
 #
 # Flags below are optional
@@ -53,9 +53,17 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-kramdown: redcarpet
-highlighter: pygments
-permalink: /:title/
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
 
 # The release of Jekyll Now that you're using
 version: v1.1.0
