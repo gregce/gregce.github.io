@@ -7,8 +7,8 @@ I am a full stack analyst/manager who is passionate about leading teams to deriv
 
 This blog is largely an extension of topics I either apply or research in a professional capacity.
 
-For more on that, check my [CV](/_files/resume_greg_ceccarelli_SEPT2016.pdf)
+For more on that, check my [CV](https://github.com/gregce/gregce.github.io/blob/master/_files/resume_greg_ceccarelli_SEPT2016.pdf)
 
 ### Contact 
 
-[gregce@gregce](mailto:gregce@gmail.com)
+[gregce@gmail.com](mailto:gregce@gmail.com)
